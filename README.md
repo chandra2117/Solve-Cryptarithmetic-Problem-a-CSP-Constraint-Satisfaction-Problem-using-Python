@@ -26,6 +26,7 @@ Input − A list of nodes, the number of elements in the node list and three wor
 Output − True if the sum of the value for word1 and word2 is same as word3 value.
 
 Begin
+
 m := 1
 for each letter i from right to left of word1, do
 ch := word1[i]
